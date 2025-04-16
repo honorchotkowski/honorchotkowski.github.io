@@ -29,7 +29,7 @@ There are 2 ways to install `Avicenna`:
 In this approach, all you need is to replace the `my_cool_page` with your desired name in the following script:
 
 ```bash
-wget https://raw.githubusercontent.com/hadisinaee/avicenna/master/setup_avicenna.sh && sh setup_avicenna.sh my_cool_page
+wget https://raw.githubusercontent.com/hadisinaee/avicenna/master/setup_avicenna.sh && sh setup_avicenna.sh honorchotkowski
 ```
 
 Run the site:
